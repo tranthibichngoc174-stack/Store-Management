@@ -32,4 +32,3 @@ VALUES
     1,
     N'Nhập hàng đầu tiên'
 )
-
